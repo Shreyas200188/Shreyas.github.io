@@ -10,12 +10,12 @@
 
 https://summerofcode.withgoogle.com/
 
-4.*I like :*
+4.I like :
 
-   *Swimming*
+   *Swimming
    
-   *Basketball*
+   *Basketball
    
-   *Painting*
+   *Painting
    
-   *Movies*
+   *Movies
