@@ -7,7 +7,11 @@
 3.*My aim is to participate in* **GSOC**
 
 4.*I like :*
+
    *Swimming*
+   
    *Basketball*
+   
    *Painting*
+   
    *Movies*
