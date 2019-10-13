@@ -8,7 +8,7 @@
 
 ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/220px-GSoC-icon.svg.png)
 
-[Alt Text](https://summerofcode.withgoogle.com/)
+[GSOC Site](https://summerofcode.withgoogle.com/)
 
 I like :
 
