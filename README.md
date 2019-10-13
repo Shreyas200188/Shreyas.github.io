@@ -4,4 +4,4 @@
 
 *I am studying* **CS** 
 
-*My aim is to go enter* **GSOC**
+*My aim is to participate in* **GSOC**
